@@ -1,6 +1,6 @@
 ﻿# Tripzzy — Ride Sharing & Carpooling Backend + Frontend 
  
-> 👉 **Live Website:** [https://tripzzyride.web.app/](https://tripzzyride.web.app/)
+> 👉 **Live Website 🚗:** [https://tripzzyride.web.app/](https://tripzzyride.web.app/)
 
 > Lightweight ride-booking and carpooling app (Node.js + Express backend, React + Vite frontend). This README explains how to run the project locally, environment variables, key API endpoints and development notes.
 
@@ -238,5 +238,6 @@ If you'd like, I can:
 * or improve the frontend `README` with deployment instructions.
 
 Tell me which of these you'd like next.
+
 
 
