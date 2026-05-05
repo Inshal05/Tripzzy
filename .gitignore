@@ -1,3 +1,41 @@
+# env files (VERY IMPORTANT)
 .env
-node_modules
-dist
+.env.*
+Frontend/.env
+Backend/.env
+
+# node modules
+node_modules/
+Backend/node_modules/
+Frontend/node_modules/
+
+# build / dist
+dist/
+Frontend/dist/
+build/
+
+# logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# firebase cache
+.firebase/
+.firebaserc.cache
+
+# misc
+coverage/
+*.local
+
+# zip files (you have one)
+*.zip
