@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 140" role="img" aria-labelledby="title desc">
+  <title id="title">Moto ride illustration</title>
+  <desc id="desc">A stylized scooter on a warm gradient background.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4a1d06" />
+      <stop offset="100%" stop-color="#18110b" />
+    </linearGradient>
+    <linearGradient id="scooter" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffd166" />
+      <stop offset="100%" stop-color="#f97316" />
+    </linearGradient>
+  </defs>
+  <rect width="240" height="140" rx="24" fill="url(#bg)" />
+  <circle cx="46" cy="34" r="20" fill="#f59e0b" opacity="0.16" />
+  <path d="M32 108c33-10 68-14 106-14 24 0 51 2 80 8" fill="none" stroke="#2b211c" stroke-linecap="round" stroke-width="16" opacity="0.55" />
+  <circle cx="83" cy="104" r="16" fill="#0f172a" />
+  <circle cx="83" cy="104" r="7" fill="#cbd5e1" />
+  <circle cx="172" cy="104" r="16" fill="#0f172a" />
+  <circle cx="172" cy="104" r="7" fill="#cbd5e1" />
+  <path d="M97 61h28c8 0 15 3 21 9l13 13h17c7 0 12 5 12 12v1h-18c-2-10-10-17-20-17c-10 0-18 7-20 17h-33l-13-19h18l-8-16c-2-4 1-8 5-8Z" fill="url(#scooter)" />
+  <path d="M126 61l14 24" stroke="#7c2d12" stroke-width="4" stroke-linecap="round" />
+  <path d="M113 55h18" stroke="#fef3c7" stroke-width="4" stroke-linecap="round" />
+  <path d="M130 52l10-9" stroke="#fef3c7" stroke-width="4" stroke-linecap="round" />
+  <path d="M76 88h26" stroke="#fef3c7" stroke-width="4" stroke-linecap="round" />
+  <circle cx="151" cy="52" r="8" fill="#fef3c7" opacity="0.9" />
+  <path d="M102 34c17-6 36-8 57-6" fill="none" stroke="#fb923c" stroke-linecap="round" stroke-width="4" opacity="0.75" />
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 140" role="img" aria-labelledby="title desc">
+  <title id="title">Auto ride illustration</title>
+  <desc id="desc">A stylized auto rickshaw on a green gradient background.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#11352b" />
+      <stop offset="100%" stop-color="#0b1216" />
+    </linearGradient>
+    <linearGradient id="body" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#facc15" />
+      <stop offset="100%" stop-color="#84cc16" />
+    </linearGradient>
+  </defs>
+  <rect width="240" height="140" rx="24" fill="url(#bg)" />
+  <circle cx="195" cy="30" r="18" fill="#34d399" opacity="0.16" />
+  <path d="M26 108c31-8 63-12 98-12 33 0 65 4 92 11" fill="none" stroke="#1f2937" stroke-linecap="round" stroke-width="16" opacity="0.55" />
+  <path d="M74 83c0-16 13-29 29-29h28c16 0 30 10 35 25l5 16h-14a16 16 0 0 1-31 0h-34a16 16 0 0 1-31 0h-12v-7c0-3 1-5 3-7l9-8c4-4 9-6 13-6Z" fill="url(#body)" />
+  <path d="M105 58h31c11 0 20 7 24 17l3 8h-58V58Z" fill="#0f172a" opacity="0.82" />
+  <path d="M88 70h14v16H78c0-6 4-12 10-16Z" fill="#fef08a" opacity="0.92" />
+  <path d="M112 63h21c7 0 13 5 16 12l2 4h-39V63Z" fill="#a7f3d0" opacity="0.9" />
+  <path d="M95 46c12-7 28-10 48-10" fill="none" stroke="#34d399" stroke-linecap="round" stroke-width="4" opacity="0.75" />
+  <circle cx="82" cy="103" r="15" fill="#111827" />
+  <circle cx="82" cy="103" r="6" fill="#94a3b8" />
+  <circle cx="141" cy="103" r="15" fill="#111827" />
+  <circle cx="141" cy="103" r="6" fill="#94a3b8" />
+  <circle cx="184" cy="100" r="11" fill="#111827" />
+  <circle cx="184" cy="100" r="4" fill="#94a3b8" />
+</svg>

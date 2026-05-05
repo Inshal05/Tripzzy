@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+  <title id="title">Captain dashboard illustration</title>
+  <desc id="desc">A stylized map and vehicle hero graphic for the captain dashboard.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#172554" />
+    </linearGradient>
+    <linearGradient id="road" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#facc15" />
+      <stop offset="100%" stop-color="#f59e0b" />
+    </linearGradient>
+    <linearGradient id="card" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e293b" />
+      <stop offset="100%" stop-color="#0f172a" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="700" rx="36" fill="url(#bg)" />
+  <circle cx="1060" cy="120" r="90" fill="#facc15" opacity="0.08" />
+  <circle cx="150" cy="120" r="70" fill="#38bdf8" opacity="0.1" />
+  <g opacity="0.15" stroke="#94a3b8" stroke-width="2">
+    <path d="M70 170h180" />
+    <path d="M100 120v170" />
+    <path d="M280 80v190" />
+    <path d="M910 140h220" />
+    <path d="M960 70v210" />
+    <path d="M750 510h260" />
+    <path d="M820 430v180" />
+  </g>
+  <path d="M120 520c130-90 216-132 305-132c121 0 170 90 285 90c96 0 175-52 374-197" fill="none" stroke="url(#road)" stroke-linecap="round" stroke-width="24" />
+  <path d="M120 520c130-90 216-132 305-132c121 0 170 90 285 90c96 0 175-52 374-197" fill="none" stroke="#fff" stroke-dasharray="18 26" stroke-linecap="round" stroke-width="5" opacity="0.85" />
+  <g transform="translate(170 390)">
+    <rect x="0" y="0" width="265" height="170" rx="28" fill="url(#card)" stroke="#334155" />
+    <path d="M50 97h24l22-34c5-7 13-11 22-11h71c9 0 18 4 24 11l21 24h11c13 0 24 11 24 24v7c0 8-6 14-14 14h-12a24 24 0 0 1-48 0h-88a24 24 0 0 1-48 0H42c-8 0-14-6-14-14v-8c0-7 3-13 8-18c4-4 10-7 14-7Z" fill="#e2e8f0" />
+    <path d="M103 60h86c6 0 12 3 16 7l18 20H88l15-20c4-4 9-7 15-7Z" fill="#93c5fd" />
+    <circle cx="92" cy="133" r="21" fill="#0f172a" />
+    <circle cx="92" cy="133" r="10" fill="#94a3b8" />
+    <circle cx="202" cy="133" r="21" fill="#0f172a" />
+    <circle cx="202" cy="133" r="10" fill="#94a3b8" />
+  </g>
+  <g transform="translate(770 170)">
+    <rect x="0" y="0" width="260" height="150" rx="26" fill="url(#card)" stroke="#334155" />
+    <circle cx="70" cy="48" r="10" fill="#22c55e" />
+    <rect x="96" y="38" width="120" height="12" rx="6" fill="#cbd5e1" opacity="0.9" />
+    <rect x="32" y="78" width="196" height="10" rx="5" fill="#334155" />
+    <rect x="32" y="102" width="156" height="10" rx="5" fill="#334155" />
+    <rect x="32" y="22" width="52" height="16" rx="8" fill="#facc15" opacity="0.9" />
+  </g>
+  <g fill="#f87171">
+    <path d="M932 268c0 20-17 33-33 56c-16-23-33-36-33-56c0-18 15-33 33-33s33 15 33 33Z" />
+    <circle cx="899" cy="268" r="10" fill="#fff3" />
+  </g>
+  <g fill="#38bdf8">
+    <path d="M314 410c0 18-15 31-31 52c-15-21-31-34-31-52c0-17 14-31 31-31s31 14 31 31Z" />
+    <circle cx="283" cy="410" r="9" fill="#fff3" />
+  </g>
+</svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 140" role="img" aria-labelledby="title desc">
+  <title id="title">Car ride illustration</title>
+  <desc id="desc">A stylized car on a dark gradient background.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1f3b73" />
+      <stop offset="100%" stop-color="#0b1021" />
+    </linearGradient>
+    <linearGradient id="carBody" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="100%" stop-color="#d9e3f7" />
+    </linearGradient>
+    <linearGradient id="glass" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#b7d8ff" />
+      <stop offset="100%" stop-color="#6ea7f7" />
+    </linearGradient>
+  </defs>
+  <rect width="240" height="140" rx="24" fill="url(#bg)" />
+  <circle cx="197" cy="25" r="18" fill="#fbbf24" opacity="0.18" />
+  <path d="M22 109c28-8 58-12 91-12 38 0 74 5 105 14" fill="none" stroke="#1f2937" stroke-linecap="round" stroke-width="16" opacity="0.55" />
+  <path d="M61 86h18l17-25c3-5 8-8 14-8h43c6 0 12 3 16 8l16 18h8c9 0 16 7 16 16v4c0 5-4 9-9 9h-8a17 17 0 0 1-34 0h-56a17 17 0 0 1-34 0h-8c-5 0-9-4-9-9v-4c0-5 2-10 6-13c4-4 9-6 14-6Z" fill="url(#carBody)" />
+  <path d="M95 58h56c4 0 8 2 11 5l11 12h-86l9-12c3-3 6-5 10-5Z" fill="url(#glass)" />
+  <path d="M116 58l-10 17" stroke="#e5eefc" stroke-width="3" stroke-linecap="round" />
+  <path d="M153 58l8 17" stroke="#e5eefc" stroke-width="3" stroke-linecap="round" />
+  <rect x="185" y="79" width="17" height="6" rx="3" fill="#f59e0b" />
+  <rect x="63" y="79" width="11" height="6" rx="3" fill="#fb7185" />
+  <circle cx="90" cy="108" r="15" fill="#0f172a" />
+  <circle cx="90" cy="108" r="7" fill="#94a3b8" />
+  <circle cx="177" cy="108" r="15" fill="#0f172a" />
+  <circle cx="177" cy="108" r="7" fill="#94a3b8" />
+  <path d="M88 41c13-8 31-12 54-12" fill="none" stroke="#fbbf24" stroke-linecap="round" stroke-width="4" opacity="0.75" />
+</svg>
