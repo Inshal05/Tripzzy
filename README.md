@@ -2,8 +2,9 @@
 
 Tripzzy Ride is a full-stack ride-booking web app with separate rider and captain flows, real-time ride updates, live location sharing, and support for both solo and carpool bookings.
 
-Live app: [tripzzyride.web.app](https://tripzzyride.web.app)
-Demo Link:(https://drive.google.com/file/d/1Yg4f5fcBfPIzoD11N74T7VpnnC5D2rJy/view?usp=drivesdk)
+🌐 **Live App:** [tripzzyride.web.app](https://tripzzyride.web.app)
+
+🎥 **Demo Video:** [Watch Demo](https://drive.google.com/file/d/1Yg4f5fcBfPIzoD11N74T7VpnnC5D2rJy/view?usp=drivesdk)
 
 ## Overview
 
